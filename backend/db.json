@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que vc veio",
+      "autoria": "Naysss",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev Alura",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "A impaciência é a mãe da insetatez, e enaltece a breviedade.",
+      "autoria": "Leonardo D. Vince",
+      "modelo": "modelo2",
+      "id": 4
+    },
+    {
+      "conteudo": "Para Deus nada é impossível",
+      "autoria": "Lucas 3.37",
+      "modelo": "modelo2",
+      "id": 5
+    }
+  ]
+}
